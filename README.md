@@ -1,5 +1,5 @@
 # WSN-Dev-Board
-This is the repository of sixfab wireless sensor network development board. 
+This is the repository of [sixfab wireless sensor network development board](https://sixfab.com/product/wireless-sensor-network-development-board/). 
 
 ## Product Description
 WSN Dev. Kit is a board that combining Arduino and Sub1 GHz communication module with the rechargeable battery functionality. It has Atmega 328 microcontroller and cc1101 868 Mhz radio module.There are also built-in humidity and temperature sensors. You can also connect Arduino compatible sensors by using the open pins and vary your project.
